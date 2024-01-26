@@ -1,7 +1,5 @@
 print("Hello World")
 if(7>5):
-    print("big")
+    print("yes")
 else:
-    print("small")
-
-
+    print("no")
