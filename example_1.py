@@ -1,11 +1,8 @@
 print("Hello World")
 if(7>5):
     print("yes")
+    print("happy")
 else:
     print("no")
+    print("sad")
 
-hungry = input("are you hungry?")
-if(hungry=="yes"):
-    print("eat burger")
-else:
-    print("do homework")
